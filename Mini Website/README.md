@@ -39,6 +39,3 @@ The script uses vanilla JavaScript and listens for the `DOMContentLoaded` event 
   - Displays specific error messages under each input if validation fails.
   - If everything is correct, it displays a success message and clears the form inputs using `form.reset()`.
 
-## How to Run
-
-Simply double-click `index.html` to open it in any modern web browser. No local server, installations, or build tools are required!
